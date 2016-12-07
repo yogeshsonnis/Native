@@ -1,0 +1,37 @@
+﻿<ivi:Item 
+    xmlns:ivi="clr-namespace:Ividence.Programmatic.Renderer.Core.Models;assembly=Ividence.Programmatic.Renderer.Core"
+    ClickUrl="http://www.adatum.com/" 
+    Description="(Description) Bacon ipsum dolor amet capicola chicken ground round pork belly fatback drumstick cow sausage shank. Alcatra bacon beef ribs, short loin t-bone filet mignon tenderloin sausage salami strip steak. Porchetta landjaeger tenderloin short ribs. Turkey picanha boudin, tri-tip jowl beef drumstick leberkas bresaola landjaeger pork cow salami. Chicken salami ham hock porchetta turkey cupim tenderloin alcatra andouille capicola boudin kevin." 
+    Id="twenga:2486681553445965267" 
+    Title="(Title) Bacon ipsum dolor amet capicola chicken ground round pork belly fatback drumstick cow sausage shank. Alcatra bacon beef ribs, short loin t-bone filet mignon tenderloin sausage salami strip steak. Porchetta landjaeger tenderloin short ribs. Turkey picanha boudin, tri-tip jowl beef drumstick leberkas bresaola landjaeger pork cow salami. Chicken salami ham hock porchetta turkey cupim tenderloin alcatra andouille capicola boudin kevin.">
+    <ivi:Item.Brand>
+        <ivi:ItemBrand LogoUrl="http://s0.c4tw.net/img/brands/24.png" Name="Les maisons du monde"/>
+	</ivi:Item.Brand>
+    <ivi:Item.Image>
+        <ivi:Image Url="http://img.ev.mu/images/villesVol/570/960x640/570.jpg"/>
+	</ivi:Item.Image>
+    <ivi:Item.Merchant>
+        <ivi:Merchant LogoUrl="http://img.leguide.com/img/logo_sb/fr/d/logo_526.gif" Name="(MerchantName) Peugeot"/>
+	</ivi:Item.Merchant>
+    <ivi:Item.Price>
+        <ivi:Price Currency="€" Value="399.98"/>
+	</ivi:Item.Price>
+    <ivi:Item.ProviderInfo>
+        <ivi:ItemProvider Name="Twenga" Url="https://www.ligatus.com/" LogoUrl="http://img.programatik.email/common/carrefour-voyages_logo2.png"/>
+    </ivi:Item.ProviderInfo>
+</ivi:Item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

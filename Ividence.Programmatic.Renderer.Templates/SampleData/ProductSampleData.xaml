@@ -1,0 +1,23 @@
+﻿<Models:Item xmlns:Models="clr-namespace:Ividence.Programmatic.Renderer.Core.Models;assembly=Ividence.Programmatic.Renderer.Core" 
+             Kind="product"
+             Description="Vivamus maecenas mauris aliquam" 
+             Title="Carly jardin Demi parasol pour balcon taupe">
+	<Models:Item.Brand>
+		<Models:ItemBrand Id="Eleifend commodo cursus facilisi" LogoUrl="Eget elit conubia" Name="Morbi dignissim faucibus"/>
+	</Models:Item.Brand>
+	<Models:Item.Category>
+		<Models:ItemCategory Id="Cubilia dapibus vestibulum egestas" Name="Dictum lectus elementum"/>
+	</Models:Item.Category>
+	<Models:Item.Image>
+        <Models:Image Url="http://i11.twenga.com/0-tp_1640568965845507947vb.jpg" />
+    </Models:Item.Image>
+	<Models:Item.Merchant>
+        <Models:Merchant Name="Alinea" LogoUrl="http://s1.c4tw.net/1/86841.png"/>
+	</Models:Item.Merchant>
+	<Models:Item.ProviderInfo>
+		<Models:ItemProvider LogoUrl="Inceptos enim nec erat" Name="Euismod vestibulum mus" Url="Nulla habitant feugiat libero"/>
+	</Models:Item.ProviderInfo>
+	<Models:Item.Price>
+        <Models:Price Currency="€" ShippingCost="9.2"  Value="49.99"/>
+	</Models:Item.Price>
+</Models:Item>

@@ -1,0 +1,18 @@
+﻿    <Models:Item xmlns:Models="clr-namespace:Ividence.Programmatic.Renderer.Core.Models;assembly=Ividence.Programmatic.Renderer.Core" 
+             Kind="product"
+             Description="Vivamus maecenas mauris aliquam Vi vamus maece nas ma uris al iquam Vi vamus maecen as mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam Vivamus maecenas mauris aliquam" 
+             Id="Class quisque phasellus adipiscing parturient"
+             Title="Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe ">
+    <Models:Item.Brand>
+        <Models:ItemBrand Id="Eleifend commodo cursus facilisi" LogoUrl="Eget elit conubia" Name="Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe Carly jardin Demi Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe Carly jardin Demi Carly jardin Demi parasol pour balcon taupe Carly jardin Demi parasol pour balcon taupe Carly jardin Demi"/>
+    </Models:Item.Brand>
+    <Models:Item.Image>
+        <Models:Image Url="http://legeekcestchic.eu/wp-content/uploads/2013/10/google-street-view.jpg" />
+    </Models:Item.Image>
+    <Models:Item.Merchant>
+        <Models:Merchant Name="Alinea" LogoUrl="http://s1.c4tw.net/1/86841.png"/>
+    </Models:Item.Merchant>
+    <Models:Item.ProviderInfo>
+        <Models:ItemProvider LogoUrl="https://s3-eu-west-1.amazonaws.com/img.programatik.email/common/ligatus/logo-dark-grey-transparent-round.png" Name="Euismod vestibulum mus" Url="Nulla habitant feugiat libero"/>
+    </Models:Item.ProviderInfo>
+</Models:Item>

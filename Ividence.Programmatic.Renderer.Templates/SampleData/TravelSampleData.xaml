@@ -1,0 +1,41 @@
+﻿<ividence:Item 
+    xmlns:ividence="clr-namespace:Ividence.Programmatic.Renderer.Core.Models;assembly=Ividence.Programmatic.Renderer.Core"
+    
+    Description="du 06/12/2016 au 13/12/2016"
+    Id="easyvoyage:1208,2503,AVION;20161206,0910,BVA,20161206,1110,CIA,,FR,9632;;;20161213,0630,CIA,20161213,0845,BVA,,FR,9631;;" 
+    Title="Paris &#9992; Rome"
+    Kind="travel">
+
+    <ividence:Item.Brand>
+        <ividence:ItemBrand LogoUrl="http://s0.c4tw.net/img/brands/24.png" Name="Les maisons du monde"/>
+    </ividence:Item.Brand>
+    <ividence:Item.Image>
+        <ividence:Image Url="http://img.ev.mu/images/villesVol/6856/960x640/6856.jpg"/>
+    </ividence:Item.Image>
+    <ividence:Item.Merchant>
+        <ividence:Merchant LogoUrl="http://img.ev.mu/logos/partenairesLittle/1208.gif" />
+    </ividence:Item.Merchant>
+    <ividence:Item.Price>
+        <ividence:Price Currency="€" Value="44.13"/>
+    </ividence:Item.Price>
+    <ividence:Item.ProviderInfo>
+        <ividence:ItemProvider Name="Easyvoyage" LogoUrl="http://img.programatik.email/common/easyvoyage_logo.png"/>
+    </ividence:Item.ProviderInfo>
+</ividence:Item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    

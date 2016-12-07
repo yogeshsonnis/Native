@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ividence.Programmatic.Renderer.Core", "Ividence.Programmatic.Renderer.Core\Ividence.Programmatic.Renderer.Core.csproj", "{35ECCD73-CD00-4121-A7C5-21820A15EA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ividence.Programmatic.Renderer.Templates", "Ividence.Programmatic.Renderer.Templates\Ividence.Programmatic.Renderer.Templates.csproj", "{AD3A4515-05C4-4A31-9372-C068DF27BD9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDDC616F-F279-48CD-9B8F-C57936FAAB04}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35ECCD73-CD00-4121-A7C5-21820A15EA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35ECCD73-CD00-4121-A7C5-21820A15EA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35ECCD73-CD00-4121-A7C5-21820A15EA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35ECCD73-CD00-4121-A7C5-21820A15EA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3A4515-05C4-4A31-9372-C068DF27BD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3A4515-05C4-4A31-9372-C068DF27BD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3A4515-05C4-4A31-9372-C068DF27BD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3A4515-05C4-4A31-9372-C068DF27BD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
