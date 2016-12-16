@@ -1,11 +1,11 @@
 # Ividence Programmatic Templates StarterKit
 
-Vous forkerez le repository et en partant des trois PSD contenus dans le dossier [psd/](psd/), vous réaliserez un et un seul template XAML qui :
+Vous forkerez le repository et en partant des trois PSD contenus dans le dossier [psd/](psd/) et de la [solution](src/Ividence.Programmatic.Templates.StarterKit.sln) fournie, vous réaliserez un et un seul template XAML qui :
 
-- sera absolument **standalone**, c'est à dire qu'il ne nécessitera aucun autre fichier de resource pour être rendu,
+- sera absolument **standalone**, c'est à dire qu'il ne dépendra d'aucun autre fichier de resource,
 - aura comme DataContext le model defini par la class [`Item`](src/Ividence.Programmatic.Renderer.Core/Models/Item.cs)
 - n'utilisera uniquement que les converters présents dans le namespace `Ividence.Programmatic.Renderer.Core.Converters`, et en particulier **[`UriToBitmapSourceConverter`](src/Ividence.Programmatic.Renderer.Core/Converters/UriToBitmapSourceConverter.cs)** pour charger les images externes.
-- s'adaptera en fonction de la valeur de la property `Kind` et respectera les demandes suivantes :
+- s'adaptera en fonction de la valeur de la property `Item.Kind` et respectera les demandes suivantes :
   * `native`: [Native Template.psd](psd/Native%20Template.psd)
     * binding des properties `Title`, `Description`, `Image.Url`,
     * l'image doit occuper toute la largeur, de hauteur fixe et être centrée verticalement dans son espace disponible (crop en haut et en bas si nécessaire),
