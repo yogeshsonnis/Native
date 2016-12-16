@@ -2,6 +2,7 @@
 
 Vous forkerez le repository et en partant des trois PSD contenus dans le dossier [psd/](psd/) et de la [solution](src/Ividence.Programmatic.Templates.StarterKit.sln) fournie, vous réaliserez un et un seul template XAML qui :
 
+- n'aura pas de taille fixe, mais une DesignWidth et DesignHeith de départ de 300x250, 
 - sera absolument **standalone**, c'est à dire qu'il ne dépendra d'aucun autre fichier de resource,
 - aura comme DataContext le model defini par la class [`Item`](src/Ividence.Programmatic.Renderer.Core/Models/Item.cs)
 - n'utilisera uniquement que les converters présents dans le namespace `Ividence.Programmatic.Renderer.Core.Converters`, et en particulier **[`UriToBitmapSourceConverter`](src/Ividence.Programmatic.Renderer.Core/Converters/UriToBitmapSourceConverter.cs)** pour charger les images externes.
