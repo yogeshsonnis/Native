@@ -7,7 +7,6 @@
              xmlns:ividence="http://schemas.ividence.com/xaml/presentation" Background="White" d:DataContext="{d:DesignData /SampleData/ItemSampleData.xaml}" Padding="0" d:DesignWidth="750" d:DesignHeight="200" Width="Auto" BorderThickness="1" BorderBrush="#FF979797">
 
     <Border.Resources>
-
         <ividence:UriToBitmapSourceConverter x:Key="UriToBitmapSourceConverter"/>
     </Border.Resources>
 
@@ -45,11 +44,7 @@
             <Border HorizontalAlignment="Right" Grid.Row="2" Width="216" Height="30" BorderBrush="#FF3EAFF0" BorderThickness="2" CornerRadius="15">
                 <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="EN SAVOIR PLUS" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Arial" FontSize="14" Foreground="#FF3EAFF0"/>
 
-
-
             </Border>
-
-
 
         </Grid>
 
